@@ -1,0 +1,8 @@
+{
+    "python.autoComplete.extraPaths": [
+        "./POO_python"
+    ],
+    "python.analysis.extraPaths": [
+        "./POO_python"
+    ],
+}
